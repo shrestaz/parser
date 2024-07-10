@@ -129,7 +129,7 @@
     "string-direction": "^0.1.2",
     "turndown": "^7.1.1",
     "valid-url": "^1.0.9",
-    "wuzzy": "^0.1.4",
+    "wuzzy": "^0.1.8",
     "yargs-parser": "^15.0.1"
   },
   "bundleDependencies": [
@@ -161,5 +161,9 @@
       "prettier --write",
       "git add"
     ]
+  },
+  "resolutions": {
+    "nth-check": "^2.0.1",
+    "css-what": "2.1.3"
   }
 }
